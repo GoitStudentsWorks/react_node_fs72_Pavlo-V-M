@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs72_Pavlo-V-M/static/css/main.ebd51d09.css",
-    "main.js": "/react_node_fs72_Pavlo-V-M/static/js/main.bcd5197a.js",
+    "main.js": "/react_node_fs72_Pavlo-V-M/static/js/main.3d316b28.js",
     "static/css/760.e84bee73.chunk.css": "/react_node_fs72_Pavlo-V-M/static/css/760.e84bee73.chunk.css",
     "static/js/760.14baa840.chunk.js": "/react_node_fs72_Pavlo-V-M/static/js/760.14baa840.chunk.js",
     "static/css/178.dca22ac2.chunk.css": "/react_node_fs72_Pavlo-V-M/static/css/178.dca22ac2.chunk.css",
@@ -49,7 +49,7 @@
     "static/media/Vector.svg": "/react_node_fs72_Pavlo-V-M/static/media/Vector.e2b9fdcac4c2335904397f64405fde26.svg",
     "static/media/Minus.svg": "/react_node_fs72_Pavlo-V-M/static/media/Minus.c7905340a5b90d7b8c5d314314ae5c49.svg",
     "main.ebd51d09.css.map": "/react_node_fs72_Pavlo-V-M/static/css/main.ebd51d09.css.map",
-    "main.bcd5197a.js.map": "/react_node_fs72_Pavlo-V-M/static/js/main.bcd5197a.js.map",
+    "main.3d316b28.js.map": "/react_node_fs72_Pavlo-V-M/static/js/main.3d316b28.js.map",
     "760.e84bee73.chunk.css.map": "/react_node_fs72_Pavlo-V-M/static/css/760.e84bee73.chunk.css.map",
     "760.14baa840.chunk.js.map": "/react_node_fs72_Pavlo-V-M/static/js/760.14baa840.chunk.js.map",
     "178.dca22ac2.chunk.css.map": "/react_node_fs72_Pavlo-V-M/static/css/178.dca22ac2.chunk.css.map",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.ebd51d09.css",
-    "static/js/main.bcd5197a.js"
+    "static/js/main.3d316b28.js"
   ]
 }
